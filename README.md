@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codeinterminal
+- 👀 I’m interested in Go, Rust, Systems performance
+- 🌱 I’m currently learning Rust, Systems performance
+- 💞️ I’m looking to collaborate on Rust
+- 📫 Find me in my twitch channel https://www.twitch.tv/codeinterminal , or in twitter https://twitter.com/CodeInTerminal
